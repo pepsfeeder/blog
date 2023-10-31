@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on pepsfeeder</title>
+    <link>https://pepsfeeder.github.io/blog/categories/</link>
+    <description>Recent content in Categories on pepsfeeder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2020 pepsfeeder</copyright>
+    <lastBuildDate>Sun, 30 May 2021 01:10:11 +0000</lastBuildDate><atom:link href="https://pepsfeeder.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>https://pepsfeeder.github.io/blog/categories/news/</link>
+      <pubDate>Sun, 30 May 2021 01:10:11 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/blog/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://pepsfeeder.github.io/blog/categories/entertainment/</link>
+      <pubDate>Wed, 22 Apr 2020 12:55:30 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/blog/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wellness</title>
+      <link>https://pepsfeeder.github.io/blog/categories/wellness/</link>
+      <pubDate>Wed, 22 Apr 2020 09:37:58 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/blog/categories/wellness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genz</title>
+      <link>https://pepsfeeder.github.io/blog/categories/genz/</link>
+      <pubDate>Mon, 02 Mar 2020 16:55:46 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/blog/categories/genz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lifestyle</title>
+      <link>https://pepsfeeder.github.io/blog/categories/lifestyle/</link>
+      <pubDate>Sun, 23 Feb 2020 16:39:49 +0000</pubDate>
+      
+      <guid>https://pepsfeeder.github.io/blog/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
